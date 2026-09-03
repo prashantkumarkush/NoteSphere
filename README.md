@@ -29,28 +29,35 @@ Postman
 Project Structure
 src/main/java/com/notesProject
 │
+
 ├── DTO
 │   ├── ExceptionDTO
 │   ├── NoteRequestDto
 │   ├── NoteResponseDTO
 │   └── ValidationExceptionDTO
 │
+
 ├── Entity
 │   └── Notes
 │
+
 ├── NoteRepository
 │   └── NotesRepository
 │
+
 ├── NoteService
 │   └── NotesService
 │
+
 ├── NotesController
 │   └── NotesController
 │
+
 ├── exceptionHandler
 │   ├── GlobalExceptionHandler
 │   └── ResourceNotFoundException
 │
+
 └── NotesprojectApplication
 
 Database:
