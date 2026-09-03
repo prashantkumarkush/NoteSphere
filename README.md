@@ -22,6 +22,8 @@ RESTful API
 
 MySQL database integration
 
+
+
 Technologies Used
 
 Java 21
@@ -43,6 +45,8 @@ JUnit
 Eclipse IDE
 
 Postman
+
+
 
 Project Structure
 src/main/java/com/notesProject
