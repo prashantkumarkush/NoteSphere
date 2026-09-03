@@ -5,47 +5,28 @@ A Spring Boot REST API for managing notes with MySQL database integration.
 Features
 
 Create a new note
-
 Get all notes
-
 Get a note by ID
-
 Update a note
-
 Delete a note
-
 Request validation
-
 Global exception handling
-
 RESTful API
-
 MySQL database integration
 
 Technologies Used
-
 Java 21
-
 Spring Boot 4
-
 Spring Data JPA
-
 Hibernate
-
 MySQL
-
 Maven
-
 REST API
-
 JUnit
-
 Eclipse IDE
-
 Postman
 
 Project Structure
-
 src/main/java/com/notesProject
 │
 ├── DTO
@@ -72,8 +53,7 @@ src/main/java/com/notesProject
 │
 └── NotesprojectApplication
 
-Database
-
+Database:
 This project uses MySQL with Spring Data JPA and Hibernate.
 
 Create the database:
