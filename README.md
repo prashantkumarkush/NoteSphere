@@ -1,4 +1,4 @@
-Notes Project
+NoteSphere project 
 
 A Spring Boot REST API for managing notes with MySQL database integration.
 
